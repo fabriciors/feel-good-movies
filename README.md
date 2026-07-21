@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports.
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports. Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception.
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -51,6 +51,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Girls Trip — friend-trip structure
 - Isn't It Romantic — Rebel Wilson as lead doesn't land (fine in ensemble roles like Pitch Perfect)
 - Anything with Amy Schumer
+- Second Act — didn't land, plot hinges on faking credentials/identity; not into lie-driven premises
 
 ## 🎬 To Try — Movies
 
@@ -69,7 +70,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 ### Workplace / Professional-World Comedies
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
-- [ ] Second Act
 - [ ] It's Complicated
 - [ ] How to Lose a Guy in 10 Days
 - [ ] You've Got Mail
