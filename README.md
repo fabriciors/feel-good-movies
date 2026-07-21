@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports. Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception.
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright).
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -52,6 +52,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Isn't It Romantic — Rebel Wilson as lead doesn't land (fine in ensemble roles like Pitch Perfect)
 - Anything with Amy Schumer
 - Second Act — didn't land, plot hinges on faking credentials/identity; not into lie-driven premises
+- Just Wright — didn't land, sports setting plus a gold-digger rival-friend subplot
 
 ## 🎬 To Try — Movies
 
@@ -77,7 +78,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Never Been Kissed
 - [ ] Trading Places
 - [ ] The Associate
-- [ ] Just Wright
 - [ ] I Don't Know How She Does It
 - [ ] Confessions of a Shopaholic
 - [ ] Begin Again
