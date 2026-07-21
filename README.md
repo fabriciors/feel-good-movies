@@ -17,6 +17,9 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - **Erin Brockovich** (2000)
 - **Always Be My Maybe** (2019)
 - **Pretty Woman** (1990) — the vacation closer
+- **The Devil Wears Prada** (2006) — 10/10
+- **The Devil Wears Prada 2** — 10/10
+- **Julie & Julia** (2009) — 9/10
 
 ## 📺 Stated Favorites (TV)
 - **Sex and the City**
@@ -35,8 +38,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Two Weeks Notice
 - Baby Mama
 - Maid in Manhattan
-- Julie & Julia
-- The Devil Wears Prada
 
 ## ❌ Not For You
 - The Best Exotic Marigold Hotel — too slow, heavier themes
