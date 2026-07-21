@@ -38,6 +38,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Two Weeks Notice
 - Baby Mama
 - Maid in Manhattan
+- I Don't Know How She Does It — liked, 7/10
 
 ## ❌ Not For You
 - The Best Exotic Marigold Hotel — too slow, heavier themes
@@ -78,7 +79,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Never Been Kissed
 - [ ] Trading Places
 - [ ] The Associate
-- [ ] I Don't Know How She Does It
 - [ ] Confessions of a Shopaholic
 - [ ] Begin Again
 - [ ] The Bounty Hunter
