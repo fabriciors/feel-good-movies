@@ -5,7 +5,7 @@ Lista de todos os animes já assistidos no Crunchyroll, extraída do histórico 
 Marque `[x]` quando adicionar a nota/review.
 
 ## A
-- [x] A Gatherer's Adventure in Isekai — Nota: 5 — Review: Mais um isekai genérico; a ideia de ficar forte coletando coisas é legal, mas é super inovadora.
+- [x] A Gatherer's Adventure in Isekai — Nota: 5 — Review: Mais um isekai genérico; a ideia de ficar forte coletando coisas é legal, mas não é super inovadora.
 - [ ] A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires — Nota: — Review:
 - [ ] A Nobody's Way Up to an Exploration Hero — Nota: — Review:
 - [ ] A Wild Last Boss Appeared! — Nota: — Review:
