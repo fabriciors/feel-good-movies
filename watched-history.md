@@ -6,7 +6,6 @@ Marque `[x]` quando adicionar a nota/review.
 
 ## A
 - [x] A Gatherer's Adventure in Isekai — Nota: 5 — Review: Mais um isekai genérico; a ideia de ficar forte coletando coisas é legal, mas não é super inovadora.
-- [ ] A Nobody's Way Up to an Exploration Hero — Nota: — Review:
 - [ ] A Wild Last Boss Appeared! — Nota: — Review:
 - [ ] Agents of the Four Seasons Dance of Spring — Nota: — Review:
 - [ ] Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin — Nota: — Review:
