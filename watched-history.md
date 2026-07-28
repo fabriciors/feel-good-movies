@@ -4,10 +4,12 @@ Lista de todos os animes já assistidos no Crunchyroll, extraída do histórico 
 
 Marque `[x]` quando adicionar a nota/review.
 
+## Continuando
+- [x] Agents of the Four Seasons Dance of Spring — Nota: 5 (parcial, 4 eps assistidos) — Review: Assisti só os 4 primeiros episódios até agora; pretendo continuar depois.
+
 ## A
 - [x] A Gatherer's Adventure in Isekai — Nota: 5 — Review: Mais um isekai genérico; a ideia de ficar forte coletando coisas é legal, mas não é super inovadora.
 - [x] A Wild Last Boss Appeared! — Nota: 4 — Review: Mais um isekai sem grandes mudanças.
-- [ ] Agents of the Four Seasons Dance of Spring — Nota: — Review:
 - [ ] Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin — Nota: — Review:
 - [ ] As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World — Nota: — Review:
 - [ ] Ascendance of a Bookworm — Nota: — Review:
