@@ -43,6 +43,8 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - I Don't Know How She Does It — liked, 7/10
 - Set It Up
 - Joy
+- The Bold Type — liked
+- Long Shot (2019) — liked
 
 ## ❌ Not For You
 - The Best Exotic Marigold Hotel — too slow, heavier themes
@@ -59,6 +61,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Second Act — didn't land, plot hinges on faking credentials/identity; not into lie-driven premises
 - Just Wright — didn't land, sports setting plus a gold-digger rival-friend subplot
 - Flamin' Hot — watched recently, didn't land despite the "unconventional approach wins" structure
+- Ugly Betty — hard pass, no interest in ever trying it
 
 ## 🎬 To Try — Movies
 
@@ -75,7 +78,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
-- [ ] Long Shot (2019)
+- [ ] Spy (2015)
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
@@ -131,11 +134,11 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Dolemite Is My Name
 
 ## 📺 To Try — Series
+- [ ] Loot
+- [ ] Great News
 - [ ] Girls5eva
 - [ ] Schitt's Creek
 - [ ] Brooklyn Nine-Nine
 - [ ] 30 Rock
 - [ ] Ted Lasso
-- [ ] The Bold Type
-- [ ] Ugly Betty
 - [ ] Younger — *only has PT-BR audio on Prime Video Brazil; needs a VPN + US region account switch, or check Apple TV/Google Play for an English track. Caveat: premise is the lead lying about her age to get hired — close to the Second Act problem*
