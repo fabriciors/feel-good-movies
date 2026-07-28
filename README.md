@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template).
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template). Strongest single pattern so far: an underestimated woman in a professional setting who wins on merit (Legally Blonde, Erin Brockovich, Hidden Figures, The Devil Wears Prada). Sequels to loved titles land too.
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -20,6 +20,8 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - **The Devil Wears Prada** (2006) — 10/10
 - **The Devil Wears Prada 2** — 10/10
 - **Julie & Julia** (2009) — 9/10
+- **Legally Blonde** (2001)
+- **Legally Blonde 2: Red, White & Blonde** (2003)
 
 ## 📺 Stated Favorites (TV)
 - **Sex and the City**
@@ -87,7 +89,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 ### General Light Comedy
 - [ ] Crazy Rich Asians
 - [ ] School of Rock
-- [ ] Legally Blonde
 - [ ] Booksmart
 - [ ] The Grand Budapest Hotel
 - [ ] Bridesmaids
