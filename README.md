@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright).
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template).
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -54,6 +54,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Anything with Amy Schumer
 - Second Act — didn't land, plot hinges on faking credentials/identity; not into lie-driven premises
 - Just Wright — didn't land, sports setting plus a gold-digger rival-friend subplot
+- Flamin' Hot — watched recently, didn't land despite the "unconventional approach wins" structure
 
 ## 🎬 To Try — Movies
 
@@ -124,7 +125,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] The Karate Kid (2010)
 
 ### Unconventional Approach Wins (Moneyball / Hidden Figures adjacent)
-- [ ] Flamin' Hot
 - [ ] Dolemite Is My Name
 - [ ] Joy
 
