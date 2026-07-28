@@ -41,6 +41,8 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Baby Mama
 - Maid in Manhattan
 - I Don't Know How She Does It — liked, 7/10
+- Set It Up
+- Joy
 
 ## ❌ Not For You
 - The Best Exotic Marigold Hotel — too slow, heavier themes
@@ -73,6 +75,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
+- [ ] Long Shot (2019)
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
@@ -103,7 +106,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Palm Springs
 - [ ] Book Club
 - [ ] Anyone But You
-- [ ] Set It Up
 - [ ] Barbie
 - [ ] No Hard Feelings
 - [ ] Brittany Runs a Marathon
@@ -127,7 +129,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 
 ### Unconventional Approach Wins (Moneyball / Hidden Figures adjacent)
 - [ ] Dolemite Is My Name
-- [ ] Joy
 
 ## 📺 To Try — Series
 - [ ] Girls5eva
@@ -135,4 +136,6 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Brooklyn Nine-Nine
 - [ ] 30 Rock
 - [ ] Ted Lasso
-- [ ] Younger — *only has PT-BR audio on Prime Video Brazil; needs a VPN + US region account switch, or check Apple TV/Google Play for an English track*
+- [ ] The Bold Type
+- [ ] Ugly Betty
+- [ ] Younger — *only has PT-BR audio on Prime Video Brazil; needs a VPN + US region account switch, or check Apple TV/Google Play for an English track. Caveat: premise is the lead lying about her age to get hired — close to the Second Act problem*
