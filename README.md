@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template). Strongest single pattern so far: an underestimated woman in a professional setting who wins on merit (Legally Blonde, Erin Brockovich, Hidden Figures, The Devil Wears Prada). Sequels to loved titles land too. Two refinements: the "no period pieces" rule isn't absolute — Hidden Figures is a period piece and is loved, so Maisel likely failed on something other than era. And action/espionage plotting is out regardless of cast (Spy), so the professional world should stay an ordinary one.
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports (see the sports note below on Just Wright vs Ted Lasso). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template). Strongest single pattern so far: an underestimated woman in a professional setting who wins on merit (Legally Blonde, Erin Brockovich, Hidden Figures, The Devil Wears Prada). Sequels to loved titles land too. Two refinements: the "no period pieces" rule isn't absolute — Hidden Figures is a period piece and is loved, so Maisel likely failed on something other than era. And action/espionage plotting is out regardless of cast (Spy), so the professional world should stay an ordinary one. Third refinement: a sports setting isn't a veto either — Ted Lasso is a 5x rewatch, so Just Wright almost certainly failed on the gold-digger rival subplot rather than the sport. Warmth and the workplace ensemble carry a sports backdrop fine.
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -27,6 +27,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - **Sex and the City**
 - **Modern Family**
 - **Hacks**
+- **Ted Lasso** — 5 rewatches and counting; currently going again ahead of the next season
 
 ## ✅ Already Seen
 - Grace and Frankie
@@ -135,11 +136,10 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Dolemite Is My Name
 
 ## 📺 To Try — Series
-- [ ] Great News
-- [ ] Julia (HBO) — *period setting, but the direct Julie & Julia companion*
+- [ ] Great News — *queued next*
+- [ ] Julia (HBO) — *queued next; period setting, but the direct Julie & Julia companion*
 - [ ] Girls5eva
 - [ ] Schitt's Creek
 - [ ] Brooklyn Nine-Nine
 - [ ] 30 Rock
-- [ ] Ted Lasso
 - [ ] Younger — *only has PT-BR audio on Prime Video Brazil; needs a VPN + US region account switch, or check Apple TV/Google Play for an English track. Caveat: premise is the lead lying about her age to get hired — close to the Second Act problem*
