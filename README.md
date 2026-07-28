@@ -1,6 +1,6 @@
 # Feel-Good Watchlist
 
-Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template). Strongest single pattern so far: an underestimated woman in a professional setting who wins on merit (Legally Blonde, Erin Brockovich, Hidden Figures, The Devil Wears Prada). Sequels to loved titles land too.
+Your taste, distilled: workplace or professional-world stories, fast hook (no slow burns), an outsider or veteran earning respect, contemporary setting (no period pieces), warm tone, no heavy/tragic themes, tends toward female leads. No Amy Schumer. Friend-trip movies (Girls Trip, 80 for Brady) and personal-life ensemble comedies (Crazy Stupid Love, Sisters) don't seem to land — the workplace/professional element is the key ingredient. Also loves the "unconventional approach proves skeptics wrong" story structure (Moneyball, Hidden Figures) independent of the field it's set in — not specifically sports; confirmed a sports-centric setting itself doesn't land (Just Wright). Dislikes plots built around a lie or fake identity/credentials (Second Act) — earning respect needs to come through genuine ability, not deception. Also not into catty/gold-digger rival-friend subplots (Just Wright). Note: the "unconventional approach wins" structure on its own isn't enough — Flamin' Hot has it and still didn't land, so it works best paired with a female lead and a contemporary setting (Moneyball is the exception, not the template). Strongest single pattern so far: an underestimated woman in a professional setting who wins on merit (Legally Blonde, Erin Brockovich, Hidden Figures, The Devil Wears Prada). Sequels to loved titles land too. Two refinements: the "no period pieces" rule isn't absolute — Hidden Figures is a period piece and is loved, so Maisel likely failed on something other than era. And action/espionage plotting is out regardless of cast (Spy), so the professional world should stay an ordinary one.
 
 ## ⭐ Loved
 - **The Intern** (2015) — where this all started
@@ -44,6 +44,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Set It Up
 - Joy
 - The Bold Type — liked
+- Loot
 - Long Shot (2019) — liked
 
 ## ❌ Not For You
@@ -62,6 +63,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - Just Wright — didn't land, sports setting plus a gold-digger rival-friend subplot
 - Flamin' Hot — watched recently, didn't land despite the "unconventional approach wins" structure
 - Ugly Betty — hard pass, no interest in ever trying it
+- Spy (2015) — not interested; action/espionage comedies don't appeal, even with a liked lead (Melissa McCarthy works in Life of the Party, so it's the genre, not her)
 
 ## 🎬 To Try — Movies
 
@@ -71,14 +73,13 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] My Best Friend's Wedding
 - [ ] Bride Wars
 - [ ] Mirror Mirror
-- [ ] The Hustle
+- [ ] The Hustle — *caveat: con-artist premise, built on deception*
 - [ ] Valentine's Day
 - [ ] Ticket to Paradise
 - [ ] The Idea of You
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
-- [ ] Spy (2015)
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
@@ -87,7 +88,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] While You Were Sleeping
 - [ ] Never Been Kissed
 - [ ] Trading Places
-- [ ] The Associate
+- [ ] The Associate — *caveat: premise is inventing a fake male business partner; same lie-driven setup as Second Act*
 - [ ] Confessions of a Shopaholic
 - [ ] Begin Again
 - [ ] The Bounty Hunter
@@ -134,8 +135,8 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Dolemite Is My Name
 
 ## 📺 To Try — Series
-- [ ] Loot
 - [ ] Great News
+- [ ] Julia (HBO) — *period setting, but the direct Julie & Julia companion*
 - [ ] Girls5eva
 - [ ] Schitt's Creek
 - [ ] Brooklyn Nine-Nine
