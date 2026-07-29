@@ -136,6 +136,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Dolemite Is My Name
 
 ## 📺 To Try — Series
+- [ ] Emily in Paris — *this week's pick; Darren Star (Sex and the City) + Patricia Field (The Devil Wears Prada) — outsider at a marketing firm winning over a skeptical boss, contemporary, no lie-driven premise*
 - [ ] Great News — *queued next*
 - [ ] Julia (HBO) — *queued next; period setting, but the direct Julie & Julia companion*
 - [ ] Girls5eva
