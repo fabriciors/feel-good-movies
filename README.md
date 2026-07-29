@@ -47,6 +47,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - The Bold Type — liked
 - Loot
 - Long Shot (2019) — liked
+- Emily in Paris — season 1 seen, "nice"; pleasant but not a Loved-tier hit
 
 ## ❌ Not For You
 - The Best Exotic Marigold Hotel — too slow, heavier themes
@@ -81,6 +82,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
+- [ ] Baby Boom (1987) — *this week's pick; passed over for partner, builds her own company and turns down the buyout — Working Girl / Pretty Woman era, no deception in the premise*
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
@@ -136,7 +138,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Dolemite Is My Name
 
 ## 📺 To Try — Series
-- [ ] Emily in Paris — *this week's pick; Darren Star (Sex and the City) + Patricia Field (The Devil Wears Prada) — outsider at a marketing firm winning over a skeptical boss, contemporary, no lie-driven premise*
+*Series queue is full (Great News + Julia) — favor film suggestions until one of these clears.*
 - [ ] Great News — *queued next*
 - [ ] Julia (HBO) — *queued next; period setting, but the direct Julie & Julia companion*
 - [ ] Girls5eva
