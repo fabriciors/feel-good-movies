@@ -82,7 +82,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
-- [ ] Baby Boom (1987) — *this week's pick; passed over for partner, builds her own company and turns down the buyout — Working Girl / Pretty Woman era, no deception in the premise*
+- [ ] Baby Boom (1987) — *passed over for partner, builds her own company and turns down the buyout — Working Girl / Pretty Woman era, no deception in the premise*
 - [ ] In Good Company
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
@@ -117,7 +117,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] No Hard Feelings
 - [ ] Brittany Runs a Marathon
 - [ ] Little Miss Sunshine
-- [ ] Chef
+- [ ] Chef (2014) — *this week's pick; fired chef restarts with a food truck and wins the critic over on cooking alone — Larry Crowne's reinvention plus Julie & Julia's kitchen warmth, contemporary, no deception, no tragedy*
 - [ ] Yesterday
 - [ ] A Man Called Otto
 - [ ] The Holiday
