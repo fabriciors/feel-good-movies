@@ -12,7 +12,7 @@ Marque `[x]` quando adicionar a nota/review.
 - [x] A Wild Last Boss Appeared! — Nota: 4 — Review: Mais um isekai sem grandes mudanças.
 - [x] Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin — Nota: 8 — Review: Fizeram bem o protagonista entrar no jogo.
 - [x] As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World — Nota: 9 — Review: História incrível.
-- [ ] Ascendance of a Bookworm — Nota: — Review:
+- [x] Ascendance of a Bookworm — Nota: 10 — Review: Um dos melhores isekais que não são de batalha.
 
 ## B
 - [ ] Black Torch — Nota: — Review:
