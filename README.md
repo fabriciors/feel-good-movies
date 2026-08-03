@@ -93,7 +93,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Trading Places
 - [ ] The Associate — *caveat: premise is inventing a fake male business partner; same lie-driven setup as Second Act*
 - [ ] Confessions of a Shopaholic
-- [ ] Begin Again
+- [ ] Begin Again (2013) — *this week's pick; fired A&R exec bets on an unknown songwriter, and they record the album outdoors around the city instead of signing a label deal — the "unconventional approach proves skeptics wrong" structure in an ordinary creative workplace, contemporary, warm, no deception, no tragedy*
 - [ ] The Bounty Hunter
 
 ### General Light Comedy
@@ -117,7 +117,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] No Hard Feelings
 - [ ] Brittany Runs a Marathon
 - [ ] Little Miss Sunshine
-- [ ] Chef (2014) — *this week's pick; fired chef restarts with a food truck and wins the critic over on cooking alone — Larry Crowne's reinvention plus Julie & Julia's kitchen warmth, contemporary, no deception, no tragedy*
+- [ ] Chef (2014) — *previous pick, not logged yet; fired chef restarts with a food truck and wins the critic over on cooking alone — Larry Crowne's reinvention plus Julie & Julia's kitchen warmth, contemporary, no deception, no tragedy*
 - [ ] Yesterday
 - [ ] A Man Called Otto
 - [ ] The Holiday
