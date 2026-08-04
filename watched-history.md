@@ -15,7 +15,7 @@ Marque `[x]` quando adicionar a nota/review.
 - [x] Ascendance of a Bookworm — Nota: 10 — Review: Um dos melhores isekais que não são de batalha.
 
 ## B
-- [ ] Black Torch — Nota: — Review:
+- [x] Black Torch — Nota: 6 — Review: Anime novo, só 3 eps vistos até agora; mais do mesmo de shounen.
 - [ ] Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. — Nota: — Review:
 - [ ] Bungo Stray Dogs WAN! — Nota: — Review:
 - [ ] Bye Bye, Earth — Nota: — Review:
