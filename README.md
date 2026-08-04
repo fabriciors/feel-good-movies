@@ -84,7 +84,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 
 ### Workplace / Professional-World Comedies
 - [ ] Baby Boom (1987) — *passed over for partner, builds her own company and turns down the buyout — Working Girl / Pretty Woman era, no deception in the premise*
-- [ ] In Good Company
+- [ ] In Good Company (2004) — *this week's pick; a 51-year-old ad sales veteran is demoted under a 26-year-old boss and wins the office back on results and decency alone — the Intern dynamic with the ages flipped, ordinary corporate workplace, contemporary, warm, no deception, no tragedy*
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
 - [ ] How to Lose a Guy in 10 Days
@@ -94,7 +94,7 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] Trading Places
 - [ ] The Associate — *caveat: premise is inventing a fake male business partner; same lie-driven setup as Second Act*
 - [ ] Confessions of a Shopaholic
-- [ ] Begin Again (2013) — *this week's pick; fired A&R exec bets on an unknown songwriter, and they record the album outdoors around the city instead of signing a label deal — the "unconventional approach proves skeptics wrong" structure in an ordinary creative workplace, contemporary, warm, no deception, no tragedy*
+- [ ] Begin Again (2013) — *fired A&R exec bets on an unknown songwriter, and they record the album outdoors around the city instead of signing a label deal — the "unconventional approach proves skeptics wrong" structure in an ordinary creative workplace, contemporary, warm, no deception, no tragedy*
 - [ ] The Bounty Hunter
 
 ### General Light Comedy
