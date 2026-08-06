@@ -83,7 +83,8 @@ Your taste, distilled: workplace or professional-world stories, fast hook (no sl
 - [ ] America's Sweethearts
 
 ### Workplace / Professional-World Comedies
-- [ ] Baby Boom (1987) — *this week's pick; passed over for partner, builds her own company from a kitchen table and turns down the corporate buyout — the underestimated-woman-wins-on-merit spine of Legally Blonde / Erin Brockovich, ordinary business world, warm, no deception, no tragedy; Working Girl / Pretty Woman era*
+- [ ] The Rewrite (2014) — *this week's pick; a washed-up screenwriter takes a teaching job he thinks is beneath him and wins the campus over by actually getting good at it — the Larry Crowne / Chef shape (career collapse, professional reinvention, respect earned on craft alone), ordinary workplace, contemporary, warm, no deception, no tragedy; small caveat: he sleeps with a student early on, played as his low point, not a romance*
+- [ ] Baby Boom (1987) — *passed over for partner, builds her own company from a kitchen table and turns down the corporate buyout — the underestimated-woman-wins-on-merit spine of Legally Blonde / Erin Brockovich, ordinary business world, warm, no deception, no tragedy; Working Girl / Pretty Woman era*
 - [ ] In Good Company (2004) — *a 51-year-old ad sales veteran is demoted under a 26-year-old boss and wins the office back on results and decency alone — the Intern dynamic with the ages flipped, ordinary corporate workplace, contemporary, warm, no deception, no tragedy*
 - [ ] Hello, My Name Is Doris
 - [ ] It's Complicated
