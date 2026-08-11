@@ -17,7 +17,6 @@ Marque `[x]` quando adicionar a nota/review.
 ## B
 - [x] Black Torch — Nota: 6 — Review: Anime novo, só 3 eps vistos até agora; mais do mesmo de shounen.
 - [x] Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. — Nota: 10 — Review: Muito divertido, fofinho e ótimo para relaxar.
-- [ ] Bungo Stray Dogs WAN! — Nota: — Review:
 - [ ] Bye Bye, Earth — Nota: — Review:
 
 ## C
