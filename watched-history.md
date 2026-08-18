@@ -19,7 +19,6 @@ Marque `[x]` quando adicionar a nota/review.
 - [x] Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. — Nota: 10 — Review: Muito divertido, fofinho e ótimo para relaxar.
 
 ## C
-- [ ] Classroom of the Elite — Nota: — Review:
 - [ ] Clevatess — Nota: — Review:
 
 ## D
