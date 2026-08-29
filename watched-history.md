@@ -19,7 +19,7 @@ Marque `[x]` quando adicionar a nota/review.
 - [x] Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. — Nota: 10 — Review: Muito divertido, fofinho e ótimo para relaxar.
 
 ## C
-- [ ] Clevatess — Nota: — Review:
+- [x] Clevatess — Nota: N/A — Review: Pausado (só 2 eps assistidos), vou continuar depois
 
 ## D
 - [ ] Dad Is a Hero, Mom Is a Spirit, I'm a Reincarnated Spirit — Nota: — Review:
